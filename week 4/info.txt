@@ -1,1 +1,1 @@
-this folder contains jupiter program
+This folder contains jupyter program.
